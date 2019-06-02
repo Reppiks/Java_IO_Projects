@@ -6,6 +6,11 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.BufferedReader;
 
+/*
+tutorial source:
+https://www.includehelp.com/java-programs/read-content-from-one-file-and-write-it-into-another-file.aspx
+ */
+
 public class FileDuplicator {
     public static void main(String[] args) {
         try {
